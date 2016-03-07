@@ -2,7 +2,13 @@ Sistema de consultas dentales
 _____________________________
 Este sistema permite gestionar la actividades
 de un consultorio dental.
+
 Requisitos funcionales
-___________________________________
+______________________________
 1.- El sistema debe registrar citas
 2.- El sistema debe mostrar reportes de los pacientes
+
+Requisitos funcionales
+_____________________________
+1.- El sistema debe ser facil de usar
+2.- El sistema debe manejar datos seguros
