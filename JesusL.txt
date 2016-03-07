@@ -1,0 +1,4 @@
+Sistema de consultas dentales
+_____________________________
+Este sistema permite gestionar la actividades
+de un consultorio dental.
