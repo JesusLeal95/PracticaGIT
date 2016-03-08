@@ -1,0 +1,29 @@
+commit e1ad123a66aefac12db1bf2ef06c21a24eb1d012
+Author: JesúsLeal <leal_jllv@hotmail.com>
+Date:   Tue Mar 8 10:18:51 2016 -0700
+
+    conclusiones
+
+commit f682358a1da46e3d95decb39c79a3165fb377a66
+Author: JesúsLeal <leal_jllv@hotmail.com>
+Date:   Mon Mar 7 11:05:55 2016 -0700
+
+    Requisistos no funcionales
+
+commit b40e2356d1f6508fe72db1ad7cc5bba0b95ba0da
+Author: JesúsLeal <leal_jllv@hotmail.com>
+Date:   Mon Mar 7 11:02:26 2016 -0700
+
+    Requisistos funcionales
+
+commit 7f4335c6a2ea3a033ff11c3cab1225b67e64ec57
+Author: JesúsLeal <leal_jllv@hotmail.com>
+Date:   Mon Mar 7 10:59:22 2016 -0700
+
+    Titulo y descripcion del proyecto
+
+commit 46255349b31737114307dc6269cac492cdf0d2ef
+Author: JesúsLeal <leal_jllv@hotmail.com>
+Date:   Mon Mar 7 10:55:29 2016 -0700
+
+    proyecto en blanco
