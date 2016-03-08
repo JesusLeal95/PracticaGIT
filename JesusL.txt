@@ -12,3 +12,7 @@ Requisitos funcionales
 _____________________________
 1.- El sistema debe ser facil de usar
 2.- El sistema debe manejar datos seguros
+
+Conclusiones
+_____________________________
+El sistema está implementado
